@@ -140,10 +140,9 @@ h2{
     display: flex;
     flex-wrap:wrap;
     max-width: 1044px;
-    justify-content: space-between;
-    margin:0 auto;
+    justify-content: center;
     text-align: center;
-
+    gap: 20px;
 }
 .service{
     margin:1px;

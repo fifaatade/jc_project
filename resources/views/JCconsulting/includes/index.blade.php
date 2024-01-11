@@ -100,8 +100,7 @@
               <img src="{{asset('/image/icone-service2.png')}}" />
               <h3>Recherche de financement</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor...
+              aide à trouver des solutions pour mobiliser des fonds pour démarrer ...
               </p>
               <div class="link">
                 <a href="{{route('searchFinance')}}">Découvrir</a>
