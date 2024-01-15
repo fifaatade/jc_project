@@ -18,8 +18,9 @@
                 </a>
                 <div id="header-right">
                     <div class="menu actif"><a href="{{route('home')}}">Accueil</a></div>
-                    <div class="menu"><a href="{{route('home')}}#service">Services</a></div>
                     <div class="menu"><a href="{{route('home')}}#mission">A propos</a></div>
+                    <div class="menu"><a href="{{route('home')}}#service">Services</a></div>
+                    <div class="menu"><a href="{{route('home')}}">Blog</a></div>
                     <div class="menu"><a href="{{route('home')}}#contact">Contacts</a></div>
                 </div>
 
