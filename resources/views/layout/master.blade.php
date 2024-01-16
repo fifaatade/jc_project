@@ -52,8 +52,8 @@
                 </h4>
                 <div class="barre mt-2"></div>
                 </div>
-                <div id="link2" class="d-flex justify-content-center align-center mt-5">
-                <a href="http://wa.me/22944223596" target="_blank" class="link-succes mb-3">Demander un devis!</a>
+                <div id="link2" class="d-flex justify-content-center align-center mt-5 mb-5">
+                    <a href="http://wa.me/22944223596" target="_blank" class="link-succes">Demander un devis!</a>
                 </div>
             </div>
             </div>
