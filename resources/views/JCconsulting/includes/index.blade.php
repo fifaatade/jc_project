@@ -36,7 +36,7 @@
                   - Satisfaction clients <br>
                 </p>
               </div>
-              <div class="col  description-img">
+              <div class="col d-flex description-img">
                 <img src="{{asset('/image/_).jpg')}}"alt="" height="400" width="250" class="margin mx-2">
                 <img src="{{asset('/image/Jaden Walton  - 𝒻ℴ𝓊𝓇.jpg')}}" alt="" class="mt-5" height="400" width="250">
               </div>
