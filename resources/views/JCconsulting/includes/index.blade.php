@@ -8,13 +8,13 @@
                 <p class="mx-3">Plus qu’un simple cabinet, nous voulons être un levier de croissance pour les micros, petites et
                   moyennes entreprises.</p>
               </div>
-              <div class="col d-flex description-img">
+              <div class="col  description-img">
                 <img src="{{asset('image/_).jpg')}}" alt="" height="400" width="250" class="margin mx-2">
                 <img src="{{asset('image/Jaden Walton  - 𝒻ℴ𝓊𝓇.jpg')}}" alt="" class="mt-5" height="400" width="250">
               </div>
             </div>
             <div class="mission d-flex align-items-center mt-5 row">
-              <div class="col d-flex description-img">
+              <div class="col  description-img">
                 <img src="{{asset('/image/_).jpg')}}" alt="" height="400" width="250" class="margin mx-2">
                 <img src="{{asset('/image/Jaden Walton  - 𝒻ℴ𝓊𝓇.jpg')}}" alt="" class="mt-5" height="400" width="250">
               </div>
@@ -29,14 +29,14 @@
             <div class="valeurs d-flex align-items-center mt-5 row">
               <div class="valeurs-text  mx-5 mt-5 col ">
                 <h4 class="mb-3 ">VALEURS</h4>
-                <ul>Les valeurs fortes qui déclinent l’identité et la culture d’entreprise d’Impact Plus sont notamment:
-                  <li class="li mt-3 mx-5">Innovation</li>
-                  <li class="li mx-5">Co-création</li>
-                  <li class="li mx-5">Esprit d’équipe</li>
-                  <li class="li mx-5">Satisfaction clients</li>
-                </ul>
+                <p>Les valeurs fortes qui déclinent l’identité et la culture d’entreprise d’Impact Plus sont notamment:
+                  <p class="li mt-3 mx-5">Innovation</p>
+                  <p class="p mx-5">Co-création</p>
+                  <p class="p mx-5">Esprit d’équipe</p>
+                  <p class="p mx-5">Satisfaction clients</p>
+                </p>
               </div>
-              <div class="col d-flex description-img">
+              <div class="col  description-img">
                 <img src="{{asset('/image/_).jpg')}}"alt="" height="400" width="250" class="margin mx-2">
                 <img src="{{asset('/image/Jaden Walton  - 𝒻ℴ𝓊𝓇.jpg')}}" alt="" class="mt-5" height="400" width="250">
               </div>

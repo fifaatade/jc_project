@@ -136,6 +136,9 @@ h2{
     padding-bottom: 20px;
 
 }
+.description-img{
+    display: flex;
+}
 #items{
     display: flex;
     flex-wrap:wrap;
@@ -341,7 +344,9 @@ input, textarea{
     *{
     overflow-x:hidden;
     }
- 
+    .description-img{
+        display: block;
+    }
 .banner,#service,#items,#list-item,#form,#footer,#link {
     width:100% !important;
     height: 100% !important;
@@ -364,8 +369,8 @@ input, textarea{
     width:100% !important;
     }
     
-#banner-img{
-    display: none;
+#banner{
+    padding: 30px;
 }
     
 #banner-left{
